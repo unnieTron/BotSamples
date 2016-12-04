@@ -1,0 +1,39 @@
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Bot Application1.dll.config
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Bot Application1.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Bot Application1.pdb
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Autofac.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Chronic.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.Bot.Builder.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.Bot.Connector.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Newtonsoft.Json.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.Net.Http.Formatting.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.Web.Http.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.Web.Http.WebHost.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Autofac.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.Bot.Builder.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.Bot.Connector.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\Newtonsoft.Json.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.Net.Http.Formatting.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.Web.Http.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\System.Web.Http.WebHost.xml
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\obj\Debug\MyFirstBotApp.csprojResolveAssemblyReference.cache
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\obj\Debug\Bot Application1.dll
+C:\GitHub\BotSamples\MyFirstBotApp\MyFirstBotApp\obj\Debug\Bot Application1.pdb
